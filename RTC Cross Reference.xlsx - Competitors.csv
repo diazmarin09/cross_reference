@@ -1,0 +1,89 @@
+﻿Part number,RTC Type,Accuracy (+/-ppm),Supply Voltage [Min to Max] (V),Low supply current (uA),Communication Protocol,Baudrate,Capacitive load (uF),Battery Back Up,SRAM,Watchdog Timer,Programmable alarm,Countdown Timer,Tamper input,Number of interrupts,Integrated Temperature Compensation,Operating Temperature (℃),AEC-Q100 compliant,Package type,Package dimensions (mm),Supplier
+MAX31341B,IC,,1.6 to 3.6,0.18,I2C,400,6,Yes,64 byte,No,Yes,Yes,No,2,No,-40 to 85,No,WLCSP12,1.50 x 2.00 x 0.64,Analog devices
+MAX31341C,IC,,1.6 to 3.6,0.18,I2C,400,6,Yes,64 byte,No,Yes,Yes,No,2,No,-40 to 85,No,WLCSP12,1.50 x 2.00 x 0.64,Analog devices
+MAX31334EWC,IC,,1.1 to 5.5,0.07,I2C,1000,6 or 12.5,Yes,32 byte,No,Yes,Yes,Yes,2,No,-40 to 85,No,WLCSP12,1.50 x 2.00 x 0.64,Analog devices
+MAX31334S,IC,,1.1 to 5.5,0.07,I2C,1000,6 or 12.5,Yes,32 byte,No,Yes,Yes,Yes,1,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+MAX31331EWC,IC,,1.1 to 5.5,0.065,I2C,1000,6 or 12.5,Yes,32 byte,No,Yes,Yes,Yes,2,No,-40 to 85,No,WLCSP12,1.50 x 2.00 x 0.64,Analog devices
+MAX31331S,IC,,1.1 to 5.5,0.065,I2C,1000,6 or 12.5,Yes,32 byte,No,Yes,Yes,Yes,2,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+MAX31329NELB,Module,,1.6 to 5.5,0.24,I2C,400,,Yes,64 byte,No,Yes,Yes,Yes,2,No,-40 to 85,No,HWSON10,2.00 x 2.00 x 0.75,Analog devices
+MAX31328NELB,Module,,2.3 to 5.5,0.66,I2C,400,,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,HWSON10,2.00 x 2.00 x 0.75,Analog devices
+MAX31343ETAY,Module,5,1.6 to 5.5,0.95,I2C,400,,Yes,64 byte,No,Yes,Yes,No,1,Yes,-40 to 85,No,HWSON8,4.00 x 4.00 x 0.75,Analog devices
+MAX31343S,Module,5,1.6 to 5.5,0.95,I2C,400,,Yes,64 byte,No,Yes,Yes,No,1,Yes,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+MAX31342EWA,IC,,1.6 to 3.6,0.15,I2C,400,6,Yes,64 byte,No,Yes,Yes,No,2,No,-40 to 85,No,WLCSP8,1 x 2 x 0.5,Analog devices
+MAX31342S,IC,,1.6 to 3.6,0.15,I2C,400,6,Yes,64 byte,No,Yes,Yes,No,2,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1339BU,IC,,1.71 to 5.5,200,I2C,400,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1339AU,IC,,1.71 to 5.5,0.25,I2C,400,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1683S,Module,,2.5 to 5.5,180,I2C,400,,No,16 byte,No,Yes,No,No,1,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1308U,IC,,1.71 to 5.5,0.25,I2C,400,6 or 7 or 12.5,Yes,56 byte,No,No,No,No,1,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS3232MZ,Module,5,2.3 to 5.5,100,I2C,400,,Yes,236 byte,No,Yes,No,No,1,Yes,-45 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1347S,IC,,2.0 to 5.5,0.4,SPI,4000,12.5,Yes,No,No,Yes,No,No,No,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1344S,IC,,1.8 to 5.5,0.25,SPI,4000,6 or 12.5,Yes,96 byte,No,Yes,No,No,2,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS3231MZ,Module,5,2.3 to 5.5,130,I2C,400,,Yes,No,No,Yes,No,No,1,Yes,-45 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1341U,IC,,1.8 to 5.5,0.25,I2C,400,6 or 12.5,Yes,No,No,Yes,No,No,2,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1342U,IC,,1.8 to 5.5,0.25,I2C,400,6,Yes,No,No,Yes,No,No,2,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1372U,IC,,2.4 to 5.5,0.4,I2C,400,6,No,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS3234S,Module,2,2.0 to 5.5,120,SPI,4000,,Yes,256 byte,No,Yes,No,No,1,Yes,-40 to 85,No,SO20,12.80 x 7.50 x 2.40,Analog devices
+DS3232S,Module,2,2.3 to 5.5,120,I2C,400,,Yes,236 byte,No,Yes,No,No,1,Yes,-40 to 85,No,SO20,12.80 x 7.50 x 2.40,Analog devices
+DS1388Z,IC,,2.7 to 5.5,100,I2C,400,6,Yes,512 byte,Yes,No,No,No,1,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS3231S,Module,2,2.3 to 5.5,110,I2C,400,,Yes,No,No,Yes,No,No,1,Yes,-40 to 85,No,SO16,10.30 x 7.50 x 2.40,Analog devices
+DS1390U,IC,,1.71 to 5.5,0.6,SPI,4000,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP10,3.00 x 3.00 x 0.86,Analog devices
+DS1391U,IC,,1.71 to 5.5,0.6,SPI,4000,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP10,3.00 x 3.00 x 0.86,Analog devices
+DS1392U,IC,,1.71 to 5.5,0.6,3-Wire,4000,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP10,3.00 x 3.00 x 0.86,Analog devices
+DS1393U,IC,,1.71 to 5.5,0.6,3-Wire,4000,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP10,3.00 x 3.00 x 0.86,Analog devices
+DS1394U,IC,,1.71 to 5.5,0.6,SPI,4000,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP10,3.00 x 3.00 x 0.86,Analog devices
+DS12CR887,IC,20,3 to 5.5,150,Parallel,150 ns cycle,,Yes,114 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS12R885S,IC,,3 to 5.5,150,Parallel,150 ns cycle,12.5,Yes,114 byte,No,Yes,No,No,1,No,-40 to 85,No,SO28,17.90 x 7.50 x 2.40,Analog devices
+DS1340Z,IC,,1.71 to 5.5,81,I2C,400,12.5,Yes,No,No,No,No,No,No,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1340U,IC,,1.71 to 5.5,81,I2C,400,12.5,Yes,No,No,No,No,No,No,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1374U,IC,,1.71 to 5.5,60,I2C,400,6,Yes,No,Yes,No,No,No,1,No,-40 to 85,No,TSSOP10,3.00 x 3.00 x 0.86,Analog devices
+DS1374CS,IC,,1.71 to 5.5,60,I2C,400,6,Yes,No,Yes,No,No,No,1,No,-40 to 85,No,SO16,10.30 x 7.50 x 2.40,Analog devices
+DS1374UU,IC,,1.71 to 5.5,60,I2C,400,6,Yes,No,Yes,No,No,No,1,No,-40 to 85,No,TSSOP10,3.00 x 3.00 x 0.86,Analog devices
+DS1501S,IC,,3 to 5.5,400,Parallel,70 ns cycle,6 or 12.6,Yes,256 byte,Yes,Yes,Yes,No,1,No,-40 to 85,No,SO28,17.90 x 7.50 x 2.40,Analog devices
+DS1511,IC,20,3 to 5.5,400,Parallel,70 ns cycle,,Yes,256 byte,Yes,Yes,Yes,No,1,No,0 to 70,No,EDIP28 Module,39.60 x 18.30 x 8.90,Analog devices
+DS1337Z,IC,,1.8 to 5.5,1.5,I2C,400,6,No,No,No,Yes,No,No,2,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1337U,IC,,1.8 to 5.5,1.5,I2C,400,6,No,No,No,Yes,No,No,2,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1337CS,IC,,1.8 to 5.5,1.5,I2C,400,6,No,No,No,Yes,No,No,2,No,-40 to 85,No,SO16,10.30 x 7.50 x 2.40,Analog devices
+DS1338Z,IC,,1.71 to 5.5,60,I2C,400,12.5,Yes,56 byte,No,No,No,No,No,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1338U,IC,,1.71 to 5.5,60,I2C,400,12.5,Yes,56 byte,No,No,No,No,No,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1338CS,IC,,1.71 to 5.5,60,I2C,400,12.5,Yes,56 byte,No,No,No,No,No,No,-40 to 85,No,SO16,10.30 x 7.50 x 2.40,Analog devices
+DS1371U,IC,,1.7 to 3.6,0.8,I2C,400,6,No,No,Yes,No,No,No,1,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1672U,IC,,1.8 to 5.5,500,I2C,400,6,Yes,No,No,No,No,No,No,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1685S,IC,,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,12.5,Yes,242 byte,No,Yes,No,No,1,No,-40 to 85,No,SO24,15.40 x 7.50 x 2.40,Analog devices
+DS1685,IC,,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,12.5,Yes,242 byte,No,Yes,No,No,1,No,0 to 70,No,DIP24,31.80 x 6.40 x 3.30,Analog devices
+DS1685U,IC,,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,12.5,Yes,242 byte,No,Yes,No,No,1,No,-40 to 85,No,TSSOP24,7.80 x 4.40 x 0.90,Analog devices
+DS1687,IC,20,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,,Yes,242 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS1558,IC,,3.0 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,70 ns cycle,6,Yes,No,Yes,Yes,No,No,1,No,-40 to 85,No,LQFP48,7.00 x 7.00 x 1.00,Analog devices
+DS12885S,IC,,4.5 to 5.5,15,Parallel,150 ns cycle,12.5,Yes,114 byte,No,Yes,No,No,1,No,-40 to 85,No,SO24,15.40 x 7.50 x 2.40,Analog devices
+DS12887,IC,20,4.5 to 5.5,15,Parallel,150 ns cycle,,Yes,114 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS12887A,IC,20,4.5 to 5.5,15,Parallel,150 ns cycle,,Yes,114 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS12C887,IC,20,4.5 to 5.5,15,Parallel,150 ns cycle,,Yes,114 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS12C887A,IC,20,4.5 to 5.5,15,Parallel,150 ns cycle,,Yes,114 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS1339Z,IC,,1.71 to 5.5,0.45,I2C,400,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1339U,IC,,1.71 to 5.5,0.45,I2C,400,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,TSSOP8,3.00 x 3.00 x 0.86,Analog devices
+DS1339CS,IC,,1.71 to 5.5,0.45,I2C,400,6,Yes,No,No,Yes,No,No,1,No,-40 to 85,No,SO16,10.30 x 7.50 x 2.40,Analog devices
+DS1305S,IC,,2.0 to 5.5,0.3,SPI,2000,6,Yes,96 byte,No,Yes,No,No,1,No,-40 to 85,No,SO16,10.30 x 7.50 x 2.40,Analog devices
+DS1305U,IC,,2.0 to 5.5,0.3,SPI,2000,6,Yes,96 byte,No,Yes,No,No,1,No,-40 to 85,No,TSSOP20,6.50 x 4.40 x 0.90,Analog devices
+DS17285S,IC,,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,12.5,Yes,2042 byte,No,Yes,No,No,1,No,-40 to 85,No,SO24,15.40 x 7.50 x 2.40,Analog devices
+DS17287,IC,20,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,,Yes,2042 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS17485S,IC,,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,12.5,Yes,2042 byte,No,Yes,No,No,1,No,-40 to 85,No,SO24,15.40 x 7.50 x 2.40,Analog devices
+DS17487,IC,20,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,,Yes,2042 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS17885S,IC,,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,12.5,Yes,2042 byte,No,Yes,No,No,1,No,-40 to 85,No,SO24,15.40 x 7.50 x 2.40,Analog devices
+DS17887,IC,20,2.7 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,150 ns cycle,,Yes,2042 byte,No,Yes,No,No,1,No,0 to 70,No,EDIP24 Module,34.00 x 18.00 x 8.00,Analog devices
+DS1682Z,Module,,2.5 to 5.5,5,I2C,400,,No,10 byte,No,Yes,No,No,No,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1306S,IC,,2.0 to 5.5,0.3,SPI,2000,6,Yes,96 byte,No,Yes,No,No,1,No,-40 to 85,No,SO16,10.30 x 7.50 x 2.40,Analog devices
+DS1306U,IC,,2.0 to 5.5,0.3,SPI,2000,6,Yes,96 byte,No,Yes,No,No,1,No,-40 to 85,No,TSSOP20,6.50 x 4.40 x 0.90,Analog devices
+DS1554,IC,20,3.0 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,70 ns cycle,,Yes,32768 byte,Yes,Yes,No,No,No,No,0 to 70,No,EDIP32 Module,44.70 x 18.30 x 10.20,Analog devices
+DS1554S,IC,,3.0 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,70 ns cycle,6,Yes,32768 byte,Yes,Yes,No,No,No,No,-40 to 85,No,PowerCap Module,34.30 x 17.80 x 4.10,Analog devices
+DS1556,IC,20,3.0 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,70 ns cycle,,Yes,131072 byte,Yes,Yes,No,No,No,No,0 to 70,No,EDIP32 Module,44.70 x 18.30 x 10.20,Analog devices
+DS1556S,IC,,3.0 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,70 ns cycle,6,Yes,131072 byte,Yes,Yes,No,No,No,No,-40 to 85,No,PowerCap Module,34.30 x 17.80 x 4.10,Analog devices
+DS1557,IC,20,3.0 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,70 ns cycle,,Yes,524288 byte,Yes,Yes,No,No,No,No,0 to 70,No,EDIP32 Module,44.70 x 18.30 x 10.20,Analog devices
+DS1557S,IC,,3.0 to 3.6 / 4.5 to 5.5 (variant dependent),10,Parallel,70 ns cycle,6,Yes,524288 byte,Yes,Yes,No,No,No,No,-40 to 85,No,PowerCap Module,34.30 x 17.80 x 4.10,Analog devices
+DS1670S,IC,,4.5 to 5.5,0.5,3-Wire,2000,6,Yes,No,Yes,Yes,No,No,1,No,-40 to 85,No,SO20,12.80 x 7.50 x 2.40,Analog devices
+DS1670U,IC,,4.5 to 5.5,0.5,3-Wire,2000,6,Yes,No,Yes,Yes,No,No,1,No,-40 to 85,No,TSSOP20,6.50 x 4.40 x 0.90,Analog devices
+DS1673S,IC,,2.7 to 5.5,0.5,3-Wire,2000,6,Yes,No,Yes,Yes,No,No,1,No,-40 to 85,No,SO20,12.80 x 7.50 x 2.40,Analog devices
+DS1673U,IC,,2.7 to 5.5,0.5,3-Wire,2000,6,Yes,No,Yes,Yes,No,No,1,No,-40 to 85,No,TSSOP20,6.50 x 4.40 x 0.90,Analog devices
+DS1307Z,IC,,4.5 to 5.5,0.3,I2C,100,12.5,Yes,56 byte,No,No,No,No,No,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS1307,IC,,4.5 to 5.5,0.3,I2C,100,12.5,Yes,56 byte,No,No,No,No,No,No,0 to 70,No,DIP8,9.27 x 6.35 x 3.30,Analog devices
+DS1302,IC,,2.0 to 5.5,0.1,3-Wire,2000,6,Yes,31 byte,No,No,No,No,No,No,0 to 70,No,DIP8,9.27 x 6.35 x 3.30,Analog devices
+DS1302Z,IC,,2.0 to 5.5,0.1,3-Wire,2000,6,Yes,31 byte,No,No,No,No,No,No,-40 to 85,No,SO8,4.90 x 3.90 x 1.75,Analog devices
+DS2417,IC,,2.0 to 5.5,0.45,1-Wire,16.3 kbps / 142 kbps,6,No,No,No,No,No,No,1,No,-40 to 85,No,TSOC6,3.70 x 4.00 x 1.15,Analog devices
