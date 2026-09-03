@@ -1,0 +1,82 @@
+﻿Part number,Status,Agile,Number of bits,Interface,Baudrate (KHz),Supply Voltage Side A [Min to Max] (V),Supply Voltage Side B [Min to Max] (V),Number of Address pins,Max Sink Current per bit (mA),Max Source Current per bit (mA),Interrupt,Reset input pin,Operating Temperature (Min-Max) (℃),AEC-Q100 compliant,Package Type,Package Dimensions (LxWxZ (mm)),Datasheet,Supplier
+PCA6408ABS,Active,N,8,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,HVQFN16,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA6408A.pdf,NXP
+PCA6408AHK,Active,N,8,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,XQFN16,1.8 x 2.6 x 0.5,https://www.nxp.com/docs/en/data-sheet/PCA6408A.pdf,NXP
+PCA6408APW,Active,N,8,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA6408A.pdf,NXP
+PCA6416AEV,Active,N,16,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,VFBGA24,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA6416A.pdf,NXP
+PCA6416AHF,Active,N,16,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCA6416A.pdf,NXP
+PCA6416APW,Active,N,16,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA6416A.pdf,NXP
+PCA9500BS,Active,N,8,I2C,400,2.5 to 3.6,—,3,25,0.1,N,N,-40 to 85,N,HVQFN16,,https://www.nxp.com/docs/en/data-sheet/PCA9500.pdf,NXP
+PCA9500PW,Active,N,8,I2C,400,2.5 to 3.6,—,3,25,0.1,N,N,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9500.pdf,NXP
+PCA9501PW,Active,N,8,I2C,400,2.5 to 3.6,—,3,25,0.1,1,N,-40 to 85,N,TSSOP20,6.5 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9501.pdf,NXP
+PCA9505DGG,Active,N,40,I2C,400,2.3 to 5.5,—,2,15,10,1,Y,-40 to 85,N,TSSOP56,14 x 6.1 x 1.2,https://www.nxp.com/docs/en/data-sheet/PCA9505.pdf,NXP
+PCA9506DGG,Active,N,40,I2C,400,2.3 to 5.5,—,2,15,10,1,Y,-40 to 85,N,TSSOP56,14 x 6.1 x 1.2,https://www.nxp.com/docs/en/data-sheet/PCA9506.pdf,NXP
+PCA9534PW,Active,N,8,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9534.pdf,NXP
+PCA9535AHF,Active,N,16,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCA9535.pdf,NXP
+PCA9535APW,Active,N,16,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9535.pdf,NXP
+PCA9535BS,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,HVQFN24,4 x 4 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9535.pdf,NXP
+PCA9535CHF,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,—,1,N,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCA9535.pdf,NXP
+PCA9535CPW,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,—,1,N,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9535.pdf,NXP
+PCA9535PW,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9535.pdf,NXP
+PCA9536DP,Active,N,4,I2C,400,2.3 to 5.5,—,0,25,10,N,N,-40 to 85,N,TSSOP8,3 x 3 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9536.pdf,NXP
+PCA9536TK,Active,N,4,I2C,400,2.3 to 5.5,—,0,25,10,N,N,-40 to 85,N,HVSON8,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9536.pdf,NXP
+PCA9537DP,Active,N,4,I2C,400,2.3 to 5.5,—,1,25,10,1,Y,-40 to 85,N,TSSOP10,3 x 3 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9537.pdf,NXP
+PCA9538ABS,Active,N,8,I2C,400,1.65 to 5.5,—,3,25,4,1,Y,-40 to 85,N,HVQFN16,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9538.pdf,NXP
+PCA9538APW,Active,N,8,I2C,400,1.65 to 5.5,—,3,25,4,1,Y,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9538.pdf,NXP
+PCA9538BS,Active,N,8,I2C,400,2.3 to 5.5,—,3,25,10,1,Y,-40 to 85,N,HVQFN16,,https://www.nxp.com/docs/en/data-sheet/PCA9538.pdf,NXP
+PCA9538PW,Active,N,8,I2C,400,2.3 to 5.5,—,3,25,10,1,Y,-40 to 85,Y,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9538.pdf,NXP
+PCA9538PW,Active,N,8,I2C,400,2.3 to 5.5,—,3,25,10,1,Y,-40 to 85,Y,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9538.pdf,NXP
+PCA9539AHF,Active,N,16,I2C,400,1.65 to 5.5,—,3,25,10,1,Y,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCA9539.pdf,NXP
+PCA9539APW,Active,N,16,I2C,400,1.65 to 5.5,—,3,25,10,1,Y,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9539.pdf,NXP
+PCA9539PW,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,Y,-40 to 85,Y,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9539.pdf,NXP
+PCA9539PW,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,Y,-40 to 85,Y,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9539.pdf,NXP
+PCA9539RPW,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,Y,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9539.pdf,NXP
+PCA9539RPW,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,Y,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9539.pdf,NXP
+PCA9554APW,Active,N,8,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9554.pdf,NXP
+PCA9554BBS,Active,N,8,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,HVQFN16,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9554.pdf,NXP
+PCA9554BPW,Active,N,8,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9554.pdf,NXP
+PCA9554CBS,Active,N,8,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,HVQFN16,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9554.pdf,NXP
+PCA9554CPW,Active,N,8,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9554.pdf,NXP
+PCA9554PW,Active,N,8,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,Y,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9554.pdf,NXP
+PCA9555AHF,Active,N,16,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf,NXP
+PCA9555APW,Active,N,16,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf,NXP
+PCA9555BS,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,HVQFN24,4 x 4 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf,NXP
+PCA9555BS,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,HVQFN24,4 x 4 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf,NXP
+PCA9555D,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,SO24,15.4 x 7.5 x 2.65,https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf,NXP
+PCA9555DB,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,SSOP24,8.2 x 5.3 x 2,https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf,NXP
+PCA9555PW,Active,N,16,I2C,400,2.3 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf,NXP
+PCA9557PW,Active,N,8,I2C,400,2.3 to 5.5,—,3,25,20,N,Y,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9557.pdf,NXP
+PCA9570GM,Active,N,4,I2C,1000,1.1 to 3.6,—,0,4,4,N,N,-40 to 85,N,XQFN8,1.6 x 1.6 x 0.5,https://www.nxp.com/docs/en/data-sheet/PCA9570.pdf,NXP
+PCA9575HF,Active,N,16,I2C,400,1.1 to 3.6,1.1 to 3.6,0,3,1,1,Y,-40 to 105,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCA9575.pdf,NXP
+PCA9575PW2,Active,N,16,I2C,400,1.1 to 3.6,1.1 to 3.6,4,3,1,1,Y,-40 to 85,N,TSSOP28,4.4 x 9.7 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9575.pdf,NXP
+PCA9698DGG,Active,N,40,I2C,1000,2.3 to 5.5,—,3,25,10,1,Y,-40 to 85,N,TSSOP56,14 x 6.1 x 1.2,https://www.nxp.com/docs/en/data-sheet/PCA9698.pdf,NXP
+PCA9701PW,Active,N,16,SPI,5000,2.3 to 5.5,—,0,—,—,N,N,-40 to 125,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9701.pdf,NXP
+PCA9703PW,Active,N,16,SPI,5000,4.5 to 5.5,—,0,—,—,N,N,-40 to 125,Y,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9703.pdf,NXP
+PCA9703PW,Active,N,16,SPI,5000,4.5 to 5.5,—,0,—,—,N,N,-40 to 125,Y,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCA9703.pdf,NXP
+PCA9704PW,Active,N,8,SPI,5000,4.5 to 5.5,—,0,—,—,N,N,-40 to 125,Y,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9704.pdf,NXP
+PCA9704PW,Active,N,8,SPI,5000,4.5 to 5.5,—,0,—,—,N,N,-40 to 125,Y,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9704.pdf,NXP
+PCAL6408ABS,Active,Y,8,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,HVQFN16,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCAL6408A.pdf,NXP
+PCAL6408AEX1,Active,Y,8,I2C,400,1.65 to 5.5,1.65 to 5.5,1,—,10,1,Y,-40 to 85,N,X2QFN16,1.6 x 1.6 x 0.35,https://www.nxp.com/docs/en/data-sheet/PCAL6408A.pdf,NXP
+PCAL6408AHK,Active,Y,8,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,XQFN16,1.8 x 2.6 x 0.5,https://www.nxp.com/docs/en/data-sheet/PCAL6408A.pdf,NXP
+PCAL6408APW,Active,Y,8,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCAL6408A.pdf,NXP
+PCAL6416AEV,Active,Y,16,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,VFBGA24,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf,NXP
+PCAL6416AEX1,Active,Y,16,I2C,400,1.65 to 5.5,1.65 to 5.5,1,—,10,1,Y,-40 to 85,N,X2QFN24,2.0 x 2.0 x 0.35,https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf,NXP
+PCAL6416AHF,Active,Y,16,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf,NXP
+PCAL6416APW,Active,Y,16,I2C,400,1.65 to 5.5,1.65 to 5.5,1,25,10,1,Y,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf,NXP
+PCAL6524HE,Active,Y,24,I2C,400,0.8 to 3.6,1.65 to 5.5,1,—,10,1,Y,-40 to 85,N,HUQFN32,5 x 5 x 0.56,https://www.nxp.com/docs/en/data-sheet/PCAL6524.pdf,NXP
+PCAL6534EV,Active,Y,34,I2C,400,0.8 to 3.6,1.65 to 5.5,1,—,10,1,Y,-40 to 85,N,VFBGA42,2.6 x 3 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCAL6534.pdf,NXP
+PCAL9535AHF,Active,Y,16,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCAL9535A.pdf,NXP
+PCAL9535APW,Active,Y,16,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCAL9535A.pdf,NXP
+PCAL9538ABS,Active,Y,8,I2C,400,1.65 to 5.5,—,2,25,10,1,Y,-40 to 85,N,HVQFN16,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCAL9538A.pdf,NXP
+PCAL9538APW,Active,Y,8,I2C,400,1.65 to 5.5,—,2,25,10,1,Y,-40 to 85,N,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCAL9538A.pdf,NXP
+PCAL9539AHF,Active,Y,16,I2C,400,1.65 to 5.5,—,2,25,10,1,Y,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCAL9539A.pdf,NXP
+PCAL9539APW,Active,Y,16,I2C,400,1.65 to 5.5,—,2,25,10,1,Y,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCAL9539A.pdf,NXP
+PCAL9555AHF,Active,Y,16,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,HWQFN24,4 x 4 x 0.75,https://www.nxp.com/docs/en/data-sheet/PCAL9555A.pdf,NXP
+PCAL9555APW,Active,Y,16,I2C,400,1.65 to 5.5,—,3,25,10,1,N,-40 to 85,N,TSSOP24,7.8 x 4.4 x 1.1,https://www.nxp.com/docs/en/data-sheet/PCAL9555A.pdf,NXP
+PCAL9714HN,Active,Y,14,SPI,5000,1.1 to 5.5,1.65 to 5.5,1,—,10,1,Y,-40 to 85,N,HVQFN24,4 x 4 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCAL9714.pdf,NXP
+PCAL9714HN/Q900,Active,Y,14,SPI,5000,1.1 to 5.5,1.65 to 5.5,1,—,10,1,Y,-40 to 125,N,HVQFN24,4 x 4 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCAL9714.pdf,NXP
+PCAL9722HN,Active,Y,22,SPI,5000,1.1 to 5.5,1.65 to 5.5,1,—,10,1,Y,-40 to 85,N,HVQFN32,5 x 5 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCAL9722.pdf,NXP
+PCAL9722HN/Q900,Active,Y,22,SPI,5000,1.1 to 5.5,1.65 to 5.5,1,—,10,1,Y,-40 to 125,Y,HVQFN32,5 x 5 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCAL9722.pdf,NXP
+PCA9554PW,Not Recommended for New Designs,N,8,I2C,400,2.3 to 5.5,—,0,25,10,1,N,-40 to 85,Y,TSSOP16,5 x 4.4 x 0.9,https://www.nxp.com/docs/en/data-sheet/PCA9554.pdf,NXP
+PCA9502BS,Not Recommended for New Designs,N,8,"15 MHz SPI,400 kHz I²C",,2.5 to 3.6,—,0,4,4,1,Y,-40 to 85,N,HVQFN24,4 x 4 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9502.pdf,NXP
+PCA9671BS,Not Recommended for New Designs,N,16,I2C,1000,2.3 to 5.5,—,0,25,0.1,N,Y,-40 to 85,N,HVQFN24,4 x 4 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCA9671.pdf,NXP
+PCAL9554CBS,Not Recommended for New Designs,Y,8,I2C,400,1.65 to 5.5,—,0,25,10,1,N,-40 to 85,N,HVQFN16,3 x 3 x 0.85,https://www.nxp.com/docs/en/data-sheet/PCAL9554B.pdf,NXP
